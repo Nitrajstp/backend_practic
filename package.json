@@ -1,0 +1,18 @@
+{
+  "name": "backendhitesh",
+  "version": "1.0.0",
+  "description": "backend application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "nitraj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3"
+  }
+}
